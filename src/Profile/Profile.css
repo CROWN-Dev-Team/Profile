@@ -1,0 +1,24 @@
+.profile-area img {
+  max-width: 150px;
+  margin-bottom: 20px;
+}
+
+.panel-body h3 {
+  margin-top: 0;
+}
+
+body {
+  background-image: url("http://heightsguitartech.com/wp-content/uploads/2015/03/candy_blur_abstract_hd_by_ivereor-d3jsglw.jpg");
+}
+
+#greeting {
+  color: #2F4F4F;
+}
+
+p {
+  color: #778899;
+}
+
+#tron {
+  background-image: url("http://heightsguitartech.com/wp-content/uploads/2015/03/candy_blur_abstract_hd_by_ivereor-d3jsglw.jpg");
+}
